@@ -1,1 +1,3 @@
+changed something
+
 this notepad will be opened by my first git ovommand
